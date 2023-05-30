@@ -5,7 +5,7 @@ public class Primer {
 	 * 
 	 * n needs to be a positive number
 	 * 
-	 * */
+	 * */ 
 	
 	public int sum(int n) {
 		int result = 0;
